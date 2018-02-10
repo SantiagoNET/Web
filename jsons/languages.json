@@ -1,0 +1,20 @@
+﻿﻿{
+  "gz": {
+    "EndText": "Grazas!"
+  },
+  "es": {
+    "langdesc": "Spanish",
+    "Start": "Comenzar",
+    "Editor": "Editor",
+    "Options": "Opciones",
+    "Sound": "Sonido",
+    "Music": "Música",
+    "Reset game": "Reiniciar todos los puzzles resueltos. ¿Estás seguro?",
+    "Yes": "Sí",
+    "No": "No",
+    "Credits1": "Programa por",
+    "Credits2": "Ilustraciones y gráficos por",
+    "Credits3": "Con agradecimiento",
+    "EndText": "¡Felicidades! ¡Gracias por jugar!"
+  }
+}
