@@ -1,20 +1,28 @@
 ﻿{
 	"gz": {
-		"EndText": "Grazas!"
+		"langdesc": "Galego",
+		"QueSomos": "Que somos?",
+		"QueSomosExp1": "ClubSantiago.NET é un dos numerosos clubes .NET existentes ao redor do mundo. Poderiamos definirnos coma un conxunto de apaixonados e apaixonadas pola tecnoloxía e a informática con ganas de compartir e ampliar os nosos coñecementos mediantes quedadas, charlas e talleres na nosa universidade. Posto que formamos o clube da Universidade de Santiago de Compostela, o noso lugar de reunión é a Escola Técnica Superior de Enxeñaría.",
+		"QueSomosExp2": "Organizamos actividades e recibimos soporte directo de Microsoft, empresa coa que mantemos contacto habitual. A temática dos eventos é a libre elección dos membros e pode estar centrada en multitude de tecnoloxías, sen teren que estar limitadas ás propias da nomeada empresa.",
+		"Afiliate": "Afíliate!",
+		"AfiliateExp1": "Se es membro da comunidade educativa superior e queres aprender e coñecer xente, estaremos encantados de que te unas ao noso clube. Ser membro permitirache coñecer a outros estudantes cos mesmos gostos e inquedanzas ca ti. Poderás desenvolver proxectos innovadores, participar en eventos e estar en contacto directo con multitude de profesionais do sector, así coma acceder a formación exclusiva.",
+		"AfiliateExp2": "Para calquera consulta, non dubides en pórte en contacto connosco:",
+		"Correo1": "Enderezo electrónico do actual coordinador do clube:",
+		"Correo1Direccion": "- ManuelSimon.Novoa(arroba)StudentPartner(punto)com",
+		"Correo2": "Enderezo electrónico da coordinación española de clubes .NET:",
+		"Correo2Direccion": "- esdpeestudiantes(arroba)microsoft(punto)com"
 	},
 	"es": {
-		"langdesc": "Spanish",
-		"Start": "Comenzar",
-		"Editor": "Editor",
-		"Options": "Opciones",
-		"Sound": "Sonido",
-		"Music": "Música",
-		"Reset game": "Reiniciar todos los puzzles resueltos. ¿Estás seguro?",
-		"Yes": "Sí",
-		"No": "No",
-		"Credits1": "Programa por",
-		"Credits2": "Ilustraciones y gráficos por",
-		"Credits3": "Con agradecimiento",
-		"EndText": "¡Felicidades! ¡Gracias por jugar!"
+		"langdesc": "Español",
+		"QueSomos": "¿Qué somos?",
+		"QueSomosExp1": "ClubSantiago.NET es uno de los numerosos clubs .NET existentes alrededor del mundo. Podríamos definirnos como un conjunto de apasionados y apasionadas por la tecnología y la informática con ganas de compartir y ampliar nuestros conocimientos mediante quedadas, charlas y talleres en nuestra universidad. Puesto que formamos el club de la Universidade de Santiago de Compostela, nuestro lugar de reunión es la Escola Técnica Superior de Enxeñaría.",
+		"QueSomosExp2": "Organizamos actividades y recibimos soporte directo de Microsoft, empresa con la que mantenemos contacto habitual. La temática de los eventos es a libre elección de los miembros y puede estar centrada en multitud de tecnologías, sin tener que estar limitadas por las propias de la mencionada empresa.",
+		"Afiliate": "¡Únete a nosotros!",
+		"AfiliateExp1": "Si eres miembro de la comunidad educativa superior y quieres aprender y conocer gente, estaremos encantados de que te unas a nuestro club. Ser miembro te permitirá conocer a otros estudiantes con los mismos gustos e inquietudes que tú. Podrás desarrollar proyectos innovadores, participar en eventos y estar en contacto directo con multitud de multitud de profesionales del sector, así como acceder a formación exlusiva.",
+		"AfiliateExp2": "Para cualquier consulta, no dudes en ponerte en contacto con nosotros:",
+		"Correo1": "Correo electrónico del actual coordinador del club:",
+		"Correo1Direccion": "- ManuelSimon.Novoa(arroba)StudentPartner(punto)com",
+		"Correo2": "Coreo electrónico de la coordinación española de clubs .NET:",
+		"Correo2Direccion": "- esdpeestudiantes(arroba)microsoft(punto)com"
 	}
 }
